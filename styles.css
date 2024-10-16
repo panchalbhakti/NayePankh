@@ -18,7 +18,7 @@ body {
   --primary-color: #1e3a8a;  /* Dark Blue */
   --secondary-color: #6366f1; /* Soft Purple */
   --accent-color: #fbbf24;    /* Bright Gold */
-  --bg-gradient: linear-gradient(135deg, #6366f1, #1e3a8a); /* Gradient */
+  --bg-gradient: linear-gradient(135deg, #22247a, #091a49); /* Gradient */
   --text-color: #333;
   --white: #fff;
   --shadow-color: rgba(0, 0, 0, 0.15);
